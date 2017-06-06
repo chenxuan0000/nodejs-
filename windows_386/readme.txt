@@ -1,0 +1,1 @@
+ngrok -config=ngrok.cfg -subdomain xxx 80 ÍâÍøÓ³Éä¹¤¾ß
